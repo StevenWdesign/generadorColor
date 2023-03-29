@@ -21,8 +21,8 @@ body {
   border: none;
   border-radius: 0.8em;
   background-color: gainsboro;
-  margin-bottom: 0.3em;
-  font-size: 2em;
+  margin: 0.2em 2em;
+  font-size: 1.5em;
   padding: 2em 3.5em;
 }
 
@@ -36,6 +36,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: .2em 2em;
 }
 
 .js-div {
